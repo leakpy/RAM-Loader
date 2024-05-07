@@ -8,6 +8,6 @@ The entered MB amount in the Tool turns into a Python code and fills your RAM wi
 
 ## Credits
 
-<h2 align="center"> @ github: truusty </h2>
-<h2 align="center"> @ github: spinozapy </h2>
-<h2 align="center"> @ discord: trusty.py </h2>
+<h2 align="center"> @ github: truusty | discord: trusty.py</h2>
+<h2 align="center"> @ github: spinozapy | discord: spinoza</h2>
+
